@@ -11,7 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Jaja Quelho"); 
-            Console.WriteLine("I love C#"); 
+            Console.WriteLine("I love C#");
+            Console.WriteLine("I'm love with Git");
         }
     }
 }
